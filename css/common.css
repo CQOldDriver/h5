@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border: none;
+}
+
+.w1200 {
+  width: 1200px;
+}
+
+#headerbox {
+  width: 100%;
+  height: 30px;
+  border-bottom: 1px solid #eee;
+}
+#headerbox .header {
+  margin: 0 auto;
+}
+
+
